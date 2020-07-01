@@ -21,7 +21,7 @@ h3{
 
 }
 p{
-    font-size: 15px;
+    font-size: 20px;
     color: dimgray;}
 
 .name-heilight{
@@ -42,6 +42,7 @@ p{
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+    
 }
 
 section{
@@ -63,5 +64,8 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+
+    display:inline-block;
+    background-position: right ;
    
 }
